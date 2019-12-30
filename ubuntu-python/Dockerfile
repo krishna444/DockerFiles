@@ -14,5 +14,6 @@ RUN apt update &&\
 # EntryPoint
 # Copy file into docker container 
 # Getting files from docker container 
+# Manualsudo docker run -ti -p 4000:4000 docs/docker.github.io:latest
 
 CMD /bin/bash
