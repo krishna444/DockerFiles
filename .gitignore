@@ -1,1 +1,9 @@
 jenkins/config
+latex/workspace/*.aux
+latex/workspace/*.log
+latex/workspace/*.nav
+latex/workspace/*.out
+latex/workspace/*.snm
+latex/workspace/*.pdf
+latex/workspace/*.toc
+
