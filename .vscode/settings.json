@@ -1,10 +1,10 @@
 {
     "files.exclude": {
-        "**/.aux": true,
-        "**/.log": true,
-        "**/.nav": true,
-        "**/.out": true,
-        "**/.snm": true,
-        "**/.toc": true
+        "**/*.aux": true,
+        "**/*.log": true,
+        "**/*.nav": true,
+        "**/*.out": true,
+        "**/*.snm": true,
+        "**/*.toc": true
     }
 }
